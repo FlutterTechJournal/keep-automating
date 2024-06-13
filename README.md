@@ -1,13 +1,20 @@
-# keep_learning
+# Keep Automating
 
-A new Flutter project.
+This is my first Flutter app to practice Flutter & Dart.
 
-## Getting Started
+## How to run the app
+You can run the app using the below terminal command:
+```sh
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+## How to run the integration test
+You can run the integration tests using the below terminal command:
+```sh
+flutter test integration_test/app_test.dart 
+```
 
-A few resources to get you started if this is your first Flutter project:
-
+## Resources
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
